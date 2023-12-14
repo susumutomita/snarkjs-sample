@@ -1,5 +1,14 @@
 {
   "dependencies": {
     "snarkjs": "^0.7.2"
-  }
+  },
+  "name": "snarkjs-sample",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Susumu Tomita <oyster880@gmail.com> (https://github.com/susumutomita)",
+  "license": "ISC"
 }
